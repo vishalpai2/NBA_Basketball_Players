@@ -1,0 +1,28 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+  font-family: monospace;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: dodgerblue;
+  text-decoration: underline;
+}
+h3 {
+   color: rgb(250,245,20);
+   border-style: dotted;
+   text-align: center;
+  
+}
+h4 {
+   color: white;
+}
+img {
+   border-radius: 20px;
+}
+a {
+  color: white;
+}

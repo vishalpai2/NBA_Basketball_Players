@@ -1,0 +1,25 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color: rgb(35,250,57);
+  text-align: left;
+  font-family: cursive;
+}
+ul {
+   color: white;
+}
+img {
+  border-radius: 20px;
+}
+a {
+  color: white;
+}
+.NBAPLAYERS {
+  font-family: monospace;
+}
+
